@@ -43,6 +43,8 @@ public class LoginServlet extends HttpServlet {
 		
 		
 		response.sendRedirect("WelcomeServlet");
+		int i = 555456;
+		
 	}
 
 }
